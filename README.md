@@ -91,3 +91,7 @@ Notebooks were developed on Kaggle Tesla T4 GPU. For extention BloodMNIST datase
 [The BloodMNIST Dataset] this is medical imaging heamatology dataset having difffrent type of blood cells (https://www.kaggle.com/datasets/michaelyousef/blood-mnist). Scientific Data.
  google repository for Vision-Transformer is here: https://github.com/google-research/vision_transformer/tree/main/vit_jax
 Results from the original ViT paper (https://arxiv.org/abs/2010.11929) have been replicated using the models from gs://vit_models/imagenet21k in my repo
+
+## Author
+
+Khansa
